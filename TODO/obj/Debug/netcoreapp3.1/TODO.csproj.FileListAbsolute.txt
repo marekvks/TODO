@@ -1,0 +1,14 @@
+C:\Users\marek\source\repos\TODO\TODO\bin\Debug\netcoreapp3.1\TODO.exe
+C:\Users\marek\source\repos\TODO\TODO\bin\Debug\netcoreapp3.1\TODO.deps.json
+C:\Users\marek\source\repos\TODO\TODO\bin\Debug\netcoreapp3.1\TODO.runtimeconfig.json
+C:\Users\marek\source\repos\TODO\TODO\bin\Debug\netcoreapp3.1\TODO.runtimeconfig.dev.json
+C:\Users\marek\source\repos\TODO\TODO\bin\Debug\netcoreapp3.1\TODO.dll
+C:\Users\marek\source\repos\TODO\TODO\bin\Debug\netcoreapp3.1\TODO.pdb
+C:\Users\marek\source\repos\TODO\TODO\obj\Debug\netcoreapp3.1\TODO.csproj.AssemblyReference.cache
+C:\Users\marek\source\repos\TODO\TODO\obj\Debug\netcoreapp3.1\TODO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\source\repos\TODO\TODO\obj\Debug\netcoreapp3.1\TODO.AssemblyInfoInputs.cache
+C:\Users\marek\source\repos\TODO\TODO\obj\Debug\netcoreapp3.1\TODO.AssemblyInfo.cs
+C:\Users\marek\source\repos\TODO\TODO\obj\Debug\netcoreapp3.1\TODO.csproj.CoreCompileInputs.cache
+C:\Users\marek\source\repos\TODO\TODO\obj\Debug\netcoreapp3.1\TODO.dll
+C:\Users\marek\source\repos\TODO\TODO\obj\Debug\netcoreapp3.1\TODO.pdb
+C:\Users\marek\source\repos\TODO\TODO\obj\Debug\netcoreapp3.1\TODO.genruntimeconfig.cache
